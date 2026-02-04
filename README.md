@@ -1,4 +1,4 @@
-🚀 AutoTap (Auto-Clicker) Features:
+# `AutoTap` (Auto-Clicker):
 
 # Features:
 
@@ -8,21 +8,21 @@ Comprehensive error handling to prevent crashes.
 
 Professional OOP structure for better maintainability.
 
-📊 Statistics tracking: Click count, runtime, average CPS.
+- Statistics tracking: Click count, runtime, average CPS.
 
-🎮 Multiple hotkeys:
+- Multiple hotkeys:
 
-[1] - Start/Stop clicking
+	[1] - Start/Stop clicking
 
-[2] - Pause/Resume
+	[2] - Pause/Resume
 
-[3] - Show statistics
+	[3] - Show statistics
 
-[0] - Exit program
+	[0] - Exit program
 
-[Esc] - Emergency stop
+	[Esc] - Emergency stop
 
-⚙️ Command-line options:
+ - Command-line options:
 
 --delay or -d: Set delay between clicks.
 
@@ -62,5 +62,6 @@ python AutoTap.py --cps 100
 ```bash
 python AutoTap.py --delay 0.05 --button right
 ```
+
 
 This Auto-Clicker is the combination of professional-grade features, error handling, and user experience improvements.
